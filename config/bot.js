@@ -10,7 +10,7 @@ module.exports = {
     discord: {
         token: 'ODg3NTk2MjU4MDExNzgzMTY4.YUGcbg.NFhMo2sDLYQFjfUryLSPrO1kxlE',
         prefix: '*',
-        activity: 'ACTIVITY',
+        activity: 'Music',
     },
 
     filters: ['8D', 'gate', 'haas', 'phaser', 'treble', 'tremolo', 'vibrato', 'reverse', 'karaoke', 'flanger', 'mcompand', 'pulsator', 'subboost', 'bassboost', 'vaporwave', 'nightcore', 'normalizer', 'surrounding'],
